@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501456111297",
+    "project_id": "social-e2369",
+    "storage_bucket": "social-e2369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501456111297:android:a0f4156e94d0a2a976f640",
+        "android_client_info": {
+          "package_name": "com.googlelogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTRhCVlZqSnAbRfvO_afQrctGuV7gXzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
